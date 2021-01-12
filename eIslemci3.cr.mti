@@ -1,0 +1,10 @@
+{C:/Users/asus/Desktop/VHDL kodlari 2/eIslemci3.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/asus/Desktop/VHDL kodlari 2/eIslemci3.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity eIslemci3
+-- Compiling architecture struct of eIslemci3
+
+} {} {}}
